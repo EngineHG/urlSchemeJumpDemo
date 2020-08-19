@@ -14,10 +14,10 @@ struct ContentView: View {
                                 "hailuo://resolve?domain=OKExGroup_Chinese",
                                 "hailuo://resolve?domain=flychatin",
                                 "hailuo://proxy?server=103.39.214.69&port=9000&secret=ddd65ebdc80f5a056dc9ea8354cd53b8",
-                                "hailuo://authorization?openId=11",
-                                "hailuo://pay?openId=321",
-                                "hailuo://recharge?openId=231",
-                                "hailuo://withdrawal?openId=312312"]
+                                "hailuo://authorization?appId=11",
+                                "hailuo://pay?appId=321",
+                                "hailuo://recharge?appId=231",
+                                "hailuo://withdrawal?appId=312312"]
     
     var body: some View {
         VStack {
