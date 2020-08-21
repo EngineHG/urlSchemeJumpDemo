@@ -14,7 +14,7 @@ struct ContentView: View {
                                 "hailuo://resolve?domain=OKExGroup_Chinese",
                                 "hailuo://resolve?domain=flychatin",
                                 "hailuo://proxy?server=103.39.214.69&port=9000&secret=ddd65ebdc80f5a056dc9ea8354cd53b8",
-                                "hailuo://authorization?appId=11",
+                                "hailuo://authorization?appId=11&type=0&responseType=2&scope=scope&qrCode=qrCode",
                                 "hailuo://pay?appId=321",
                                 "hailuo://recharge?appId=231",
                                 "hailuo://withdrawal?appId=312312"]
